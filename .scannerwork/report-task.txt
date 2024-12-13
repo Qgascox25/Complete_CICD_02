@@ -1,0 +1,6 @@
+projectKey=test-vulnerable-app
+serverUrl=http://localhost:9001
+serverVersion=9.9.4.87374
+dashboardUrl=http://localhost:9001/dashboard?id=test-vulnerable-app
+ceTaskId=AY7uYREk7TGpLmCmu9-b
+ceTaskUrl=http://localhost:9001/api/ce/task?id=AY7uYREk7TGpLmCmu9-b
